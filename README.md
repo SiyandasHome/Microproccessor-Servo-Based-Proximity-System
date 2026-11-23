@@ -109,7 +109,7 @@ For the first 18 timer overflows (about 295 ms) after reset, the system runs a t
 
 ## Program flow
 
-![Program flowchart](docs/flowchart.png)
+![Program flowchart](doc/FlowChart.pdf)
 <!-- Add the flowchart from Figure 1 of the report as docs/flowchart.png -->
 
 1. Set up the stack, I/O, Timer1 PWM, Timer0, PCINT0 and INT0, initialise SRAM and start the self-test.
