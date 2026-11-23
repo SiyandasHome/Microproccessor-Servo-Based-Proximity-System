@@ -2,7 +2,7 @@
 
 An ultrasonic distance detector that drives a servo motor and three indicator LEDs, written **entirely in AVR assembly** for the ATmega328P (Arduino Uno). It uses hardware timers and interrupts only: no `delay()`, no polling, no Arduino libraries. The main loop is a single `rjmp` and all the work happens in interrupt service routines.
 
-![Project build](docs/build-photo.jpg)
+![Project build](doc/build-photo.jpg)
 <!-- Add your breadboard photo (Figure 2 of the report) as docs/build-photo.jpg -->
 
 ## Overview
