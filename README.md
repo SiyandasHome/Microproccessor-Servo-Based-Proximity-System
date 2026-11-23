@@ -130,17 +130,14 @@ All modules ran in sync. The servo reached the intended angles after calibration
 ## Repository structure
 
 ```
-servo-proximity-control/
-├── src/
-│   └── Project_final/
-│       ├── Project_final.ino   # intentionally empty, required by the Arduino IDE
-│       └── Project_final.S     # all program logic (AVR assembly)
-├── build/
-│   └── Project_final_ino.hex   # compiled firmware
 ├── docs/
-│   ├── Proximity_Control_Report.pdf
+│   ├── Final Report.pdf
 │   ├── build-photo.jpg
 │   └── flowchart.png
+
+└──Project_final.ino   # intentionally empty, required by the Arduino IDE
+└──Project_final.S     # all program logic (AVR assembly)
+
 └── README.md
 ```
 
