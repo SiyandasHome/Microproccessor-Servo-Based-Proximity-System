@@ -154,7 +154,7 @@ servo-proximity-control/
 
 ## Documentation
 
-Full write-up with equations, validation, and references: [`docs/Proximity_Control_Report.pdf`](docs/Proximity_Control_Report.pdf)
+Full write-up with equations, validation, and references: [`docs/Proximity_Control_Report.pdf`](doc/Final Report.pdf)
 
 ## References
 
